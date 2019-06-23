@@ -30,6 +30,11 @@ pip install beautifulsoup4
 该工具用于设置语言
 
 
+### 项目运行
+```
+python Main.py
+```
+
 <pre>
 最近做了一个爬虫项目
 偶然发现PyQt5，桌面程序,业余时间做了这个项目,正在设计之中，欢迎提供好的想法
